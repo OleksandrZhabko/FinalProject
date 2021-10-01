@@ -1,12 +1,15 @@
 # FinalProject
 ### 1.Brief description of project
 #### The main idea of the project is to organize a consistent transfer of changes made by the site developer to the infrastructure, that is, the organization of the CI / CD process for delivering the changed code to the infrastructure. The following components have been implemented:
-- 1;
-- 2;
-- 3;
-- 4.
+- Developer interaction with GitHub;
+- Transferring data to Jenkins;
+- Performing actions on an agent;
+- Data transfer to web server;
+- Automation with Ansible.
+#### Additionally, a host with Ansible was created to be able to automatically deploy the environment based on the created infrastructure. At this point, a script has been written to create a website based on the developer machine. Scripts can be combined into a bash file for later automatic launch on Ansible.
+The next steps in the development of the project are the addition of automatic infrastructure configuration and the creation of test environments.
 ### 2.Links
-[GitHub repository](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer):
+[GitHub repository](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
 
 [Presentation](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
 
