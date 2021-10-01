@@ -1,15 +1,14 @@
 # FinalProject
 ### 1.Brief description of project
-#### 
+#### The main idea of the project is to organize a consistent transfer of changes made by the site developer to the infrastructure, that is, the organization of the CI / CD process for delivering the changed code to the infrastructure. The following components have been implemented:
 - 1;
 - 2;
 - 3;
 - 4.
 ### 2.Links
-[Topology file](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
-[Topology file](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
-[Topology file](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
-[Topology file](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
+#####[GitHub repository](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
+[Presentation](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
+[Site](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
 ### 3. Project implementation screenshots
 #### Scripting and setting up a secure session on GitHub:
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/git_1.jpg)
