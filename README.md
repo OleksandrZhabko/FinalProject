@@ -48,7 +48,7 @@ The next steps in the development of the project are the addition of automatic i
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/web_6.png)
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/web_7.png)
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/web_8.png)
-#### Working with Ansible
+#### Configuring Ansible:
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_1.jpg)
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_2.jpg)
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_3.jpg)
