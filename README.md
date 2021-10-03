@@ -9,11 +9,11 @@
 #### Additionally, a host with Ansible was created to be able to automatically deploy the environment based on the created infrastructure. At this point, a script has been written to create a website based on the developer machine. Scripts can be combined into a bash file for later automatic launch on Ansible.
 The next steps in the development of the project are the addition of automatic infrastructure configuration and the creation of test environments.
 ### 2.Links
-[GitHub repository](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
+[GitHub repository](https://github.com/OleksandrZhabko/Jenkins_test.git)
 
-[Presentation](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
+[Presentation]()
 
-[Site](https://github.com/OleksandrZhabko/DevOps_online_Dnipro_2021Q3/tree/main/m4/task4.4/PacketTracer)
+[Site](http://ec2-3-19-225-253.us-east-2.compute.amazonaws.com/)
 ### 3. Project implementation screenshots
 #### Scripting and setting up a secure session on GitHub:
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/git_1.jpg)
@@ -48,3 +48,10 @@ The next steps in the development of the project are the addition of automatic i
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/web_6.png)
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/web_7.png)
 ![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/web_8.png)
+#### Working with Ansible
+![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_1.jpg)
+![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_2.jpg)
+![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_3.jpg)
+![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_4.jpg)
+![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_5.jpg)
+![alt text](https://github.com/OleksandrZhabko/FinalProject/blob/main/images/Ansible_6.jpg)
