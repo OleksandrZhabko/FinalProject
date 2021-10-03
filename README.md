@@ -11,7 +11,7 @@ The next steps in the development of the project are the addition of automatic i
 ### 2.Links
 [GitHub repository](https://github.com/OleksandrZhabko/Jenkins_test.git)
 
-[Presentation]()
+[Presentation](https://github.com/OleksandrZhabko/FinalProject/blob/main/EPAM_DevOps_2021.pptx)
 
 [Site](http://ec2-3-19-225-253.us-east-2.compute.amazonaws.com/)
 ### 3. Project implementation screenshots
